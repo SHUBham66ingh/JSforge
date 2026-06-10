@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 import { Routes, Route } from "react-router-dom";
 import Loader from "./components/Loader";
-import Home from "./pages/Home";
-import Quiz from "./pages/Quiz";
-import CodeLab from "./pages/CodeLab";
-import Tutorials from "./pages/Tutorials";
-import MockInterview from "./pages/MockInterview";
+import Home from "./Pages/Home";
+import Quiz from "./Pages/Quiz";
+import CodeLab from "./Pages/CodeLab";
+import Tutorials from "./Pages/Tutorials";
+import MockInterview from "./Pages/MockInterview";
 
 
 
